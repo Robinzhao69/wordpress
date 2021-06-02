@@ -1,0 +1,6 @@
+2021-05-31T09:40:59+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\mamp\htdocs\wordpress\wp-includes\Requests\Transport\cURL.php on line 441
+
+2021-05-31T09:41:00+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\mamp\htdocs\wordpress\wp-content\themes\astra\header.php on line 13
+
+2021-05-31T09:41:28+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\mamp\htdocs\wordpress\wp-includes\Requests\Transport\cURL.php on line 163
+
